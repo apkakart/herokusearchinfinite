@@ -15,7 +15,7 @@ url1 = 'https://infiniteamp.blogspot.com/feeds/posts/default'
    # creating HTTP response object from given url 
 resp = requests.get(url1, params= {'q':q}) 
 
-  
+    
 
     # saving the xml file 
 
